@@ -3,23 +3,14 @@
 <ol><b>Objectives:</b> 
 <li><i>Learn</i>  
 <ul>
-<input type="checkbox" id="html">
-<label for="html">HTML Basics</label>
-
-<br>
-
-<input type="checkbox" id="css">
-<label for="css">CSS Basics</label>
-
-<br>
-
-<input type="checkbox" id="js">
-<label for="js">JavaScript Basics</label>
+<li for="html">HTML Basics</li>
+<li for="css">CSS Basics</li>
+<li for="js">JavaScript Basics</li>
 </ul>
 </li>
-<li><b>Goal</b> 
+<li><b>Goal</b> </li>
 <ul>    
-<input type = "checkbox" id= "built static site"><label for= "built static site">Build a static webpage and host it using git hub pages</label>
+<li>Build a static webpage and host it using git hub pages</li>
 </ul>
 </li>
 </ol> 
