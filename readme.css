@@ -1,0 +1,20 @@
+body{
+    color:aliceblue;
+    padding: 10px;
+    border: 2px solid orange;
+}
+h1{
+    color:red;
+    text-align:center;
+}
+h1:hover{
+    color:blue;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+h1::after{
+    color:grey;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+ol,ul{
+    color:pink;
+}

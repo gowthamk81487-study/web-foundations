@@ -1,5 +1,9 @@
-# web-foundations
-**First step in learning web development:**  
+<head>
+<link rel="stylesheet" href="readme.css">
+</head>
+<body>
+<h1> web-foundations<h1>
+<h2>First step in learning web development:<h2> 
 <ol><b>Objectives:</b> 
 <li><i>Learn</i>  
 <ul>
@@ -14,3 +18,4 @@
 </ul>
 </li>
 </ol> 
+</body>
