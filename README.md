@@ -10,4 +10,7 @@
 </li>
 <li><b>Goal</b> 
 <ul>    
-<li>Build a static webpage and host it using git hub pages<li></ul></li></ol> 
+<li>Build a static webpage and host it using git hub pages</li>
+</ul>
+</li>
+</ol> 
