@@ -1,7 +1,3 @@
-<head>
-<link rel="stylesheet" href="readme.css">
-</head>
-<body>
 <h1> web-foundations<h1>
 <h2>First step in learning web development:<h2> 
 <ol><b>Objectives:</b> 
@@ -18,4 +14,3 @@
 </ul>
 </li>
 </ol> 
-</body>
