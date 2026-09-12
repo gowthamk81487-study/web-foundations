@@ -1,0 +1,81 @@
+.login-title {
+    display: flex;
+    color:red;
+    background-color: lightblue;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    border-radius: 5px;
+    width: 350px ;
+    justify-content: center;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    color:black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    width: 350px ;
+    background-color: lightblue;
+    height: 300px;
+    border-radius: 5px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.login-container{
+    display: flex;
+    color:black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+     width: 350px ;
+     background-color: lightblue;
+    align-items: flex-start;
+    justify-content: center;
+    border-radius-right: 5px;
+    border-radius-left: 5px;
+}
+label{
+    display: flex;
+    justify-content: flex-start;
+}
+#Email,
+#Password {
+    border: none;
+    outline: none;
+    height: 40px;
+    background-color: lightblue;
+    justify-content: center;
+    transform: translate(40px);
+    width : 250px;
+}
+#Email::placeholder,
+#Password::placeholder {
+    text-align: center;
+    font-size: 16px;
+}
+#submit-btn {
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color:aliceblue;
+    margin-top: auto;
+}
+#usersvg {
+    align-self: flex-start;
+    margin-left: 4px;
+    margin-bottom: -50px;
+    height:50px;
+    width:35px;
+}
+#passsvg {
+    align-self: flex-start;
+    margin-left: 6px;
+    margin-bottom: -40px;
+    height:50px;
+    width:35px;
+}
