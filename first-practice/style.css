@@ -35,8 +35,7 @@ form {
      background-color: lightblue;
     align-items: flex-start;
     justify-content: center;
-    border-radius-right: 5px;
-    border-radius-left: 5px;
+    border-radius: 5px;
 }
 label{
     display: flex;
