@@ -8,22 +8,13 @@
     display: flex;
     flex-direction: row;
     height: 100vh;
-    width: 50vw;
+    width: 100vw;
     background-color: #0F172A;
     padding: 15px;
 }
-.inner2{
-    display: flex;
-    flex-direction: row;
-    height: 100vh;
-    width: 50vw;
-    background-color:#1E293B ;
-    justify-content: end;
-    padding: 15px;
-}
 #img1164{
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     border-radius: 50%;
     border: 2px solid #F8FAFC;
@@ -31,7 +22,7 @@
 .inner1sub1 {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 100vw;
     height: 100%;
 }
 
@@ -39,4 +30,18 @@
     flex: 1;
     width: 100%;
     background-color: white;
+}
+.image{
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    height: 25vh;
+    width: 100vw;
+}
+.name{
+    text-align: center;
+    padding: 15px;
+}
+h1{
+    padding: 5px;
 }
